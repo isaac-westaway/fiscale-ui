@@ -15,10 +15,10 @@
     "fiscale-ui": "./dist/index.js"
   },
   "devDependencies": {
-    "@repo/typescript-config": "workspace:*",
+    "@fiscale/typescript-config": "workspace:*",
     "tsconfig-paths": "^4.2.0",
     "tsup": "^8.2.4",
-    "typescript": "^5.3.3"
+    "typescript": "^5.4.5"
   },
   "dependencies": {
     "commander": "^12.1.0"

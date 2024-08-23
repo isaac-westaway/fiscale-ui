@@ -10,7 +10,8 @@
     "**/.hg": true,
     "**/CVS": true,
     "**/.DS_Store": true,
-    "**/Thumbs.db": true
+    "**/Thumbs.db": true,
+    "apps/web/.next": true
   },
   "hide-files.files": []
 }
