@@ -1,6 +1,7 @@
-import sharedConfig from "@fiscale/tailwind-config";
 import { createPreset } from "fumadocs-ui/tailwind-plugin";
 import { Config } from "tailwindcss";
+
+import sharedConfig from "@fiscale/tailwind-config";
 
 const config: Pick<Config, "content" | "presets"> = {
   content: [
